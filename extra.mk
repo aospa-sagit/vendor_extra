@@ -3,6 +3,10 @@ PRODUCT_PACKAGES += \
     ParanoidHub \
     ParanoidHubOverlay
 
+# ParanoidThemePicker
+PRODUCT_PACKAGES += \
+    ParanoidThemePickerOverlay
+
 # Settings
 PRODUCT_PACKAGES += \
     SettingsOverlay
