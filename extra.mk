@@ -1,3 +1,7 @@
+# KernelSU
+PRODUCT_PACKAGES += \
+    KernelSU
+
 # Launcher3
 PRODUCT_PACKAGES += \
     Launcher3Overlay
