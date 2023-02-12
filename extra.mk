@@ -2,6 +2,11 @@
 PRODUCT_PACKAGES += \
     Launcher3Overlay
 
+# ParanoidHub
+PRODUCT_PACKAGES += \
+    ParanoidHub \
+    ParanoidHubOverlay
+
 # ParanoidThemePicker
 PRODUCT_PACKAGES += \
     ParanoidThemePickerOverlay
