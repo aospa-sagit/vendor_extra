@@ -1,3 +1,7 @@
+# Launcher3
+PRODUCT_PACKAGES += \
+    HomeOverlay
+
 # ParanoidHub
 PRODUCT_PACKAGES += \
     ParanoidHub \
