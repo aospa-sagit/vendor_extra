@@ -1,3 +1,8 @@
+# ParanoidHub
+PRODUCT_PACKAGES += \
+    ParanoidHub \
+    ParanoidHubOverlay
+
 # Settings
 PRODUCT_PACKAGES += \
     SettingsOverlay
